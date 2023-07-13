@@ -1,6 +1,7 @@
 - 👋 Oi, sou @eduardo-libindo
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo o Framework Next js da biblioteca React js
+- 🥇 Possuo como habilidades em destaque: JavaScript + Node.js + Angular + TypeScript
+- 🌱 Atualmente estou aprendendo o Framework Next js e a biblioteca React js
 - 💞️ Estou procurando colaborar em Tecnologias Voltada para Desenvolvimento Web
 - 📫 Como chegar até mim @eduardolibindo
 <!---
